@@ -61,12 +61,8 @@ input {
 
 .btn-submit {
   font-size: 1.2em;
-  color: white;
-  background-color: #337AB7;
+  color: rgb(255, 255, 255);
+  background-color: #ab51ff;
   border: none;
   border-radius: 3px;
-
-  /* &:hover {
-    background-color: #337AFF;
-  } */
 }
